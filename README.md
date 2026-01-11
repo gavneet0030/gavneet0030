@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔹Intermediate-level Software Engineer  
+- 🔹Skilled Software Engineer  
 - 🔹Strong foundation in Python, C++, and C Programming  
 - 🔹Good understanding of Data Structures & Algorithms  
 - 🔹Hands-on experience with DevOps practices and AWS
